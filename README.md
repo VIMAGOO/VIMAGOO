@@ -22,7 +22,7 @@ field with great effort and perseverance.</p>
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=js,html,css,python,java,git,tailwind,react,mysql,mongodb,ps,pr,)](https://skillicons.dev)"/>
+<img width="500px"  src="https://skillicons.dev/icons?i=js,html,css,python,java,git,tailwind,react,mysql,mongodb,ps,pr,vscode,github,bootstrap,)](https://skillicons.dev)"/>
 </p>
 <br />
 
@@ -90,11 +90,11 @@ field with great effort and perseverance.</p>
 <h2 align="center">Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ</h2>
 <div align="center">
  <a href="https://www.linkedin.com/in/v%C3%ADctor-madarn%C3%A1s-aa22a0296/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
+<img width="500px"  src="https://skillicons.dev/icons?i=linkedin,)](https://skillicons.dev)"/>
 </a>
   
 <a href="mailto:vmadarnasinfo@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=vmadarnasinfo@gmail.com mail style="margin-bottom: 5px;" />
+<img src="https://skillicons.dev/icons?i=gmail,)](https://skillicons.dev)" alt=vmadarnasinfo@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
 <!--Footer--> 
