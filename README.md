@@ -14,7 +14,7 @@ field with great effort and perseverance.</p>
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=VIMAGOO&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="VIMAGOO" style="padding-right:20px;" />
+  <img src="(https://komarev.com/ghpvc/?username=VIMAGOO&color=orange&abbreviated=true&label=Views&style=flat)" alt="VIMAGOO" style="padding-right:20px;" />
 </p>
 
 ---
@@ -23,7 +23,7 @@ field with great effort and perseverance.</p>
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=js,html,css,python,java,git,tailwind,react,mysql,mongodb,ps,pr)](https://skillicons.dev)"  />
 </p>
 <br />
 
