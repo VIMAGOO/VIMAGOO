@@ -90,11 +90,11 @@ field with great effort and perseverance.</p>
 <h2 align="center">Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ</h2>
 <div align="center">
  <a href="https://www.linkedin.com/in/v%C3%ADctor-madarn%C3%A1s-aa22a0296/" target="_blank">
-   <img width="20px" src="https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)" alt="LinkedIn" />
+   <img width="40px" src="https://github.com/VIMAGOO/VIMAGOO/blob/main/Linkedin1.1.png" alt="LinkedIn" />
 </a>
   
 <a href="mailto:vmadarnasinfo@gmail.com" target="_blank">
-  <img width="20px" src="https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)" alt="Gmail" />
+  <img width="50px" src="https://github.com/VIMAGOO/VIMAGOO/blob/main/Gmail1.1.png" alt="Gmail" />
 </a>
 </div>
 
