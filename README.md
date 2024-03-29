@@ -16,13 +16,13 @@ field with great effort and perseverance.</p>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&color=orange&style=flat&label=Views" alt="VIMAGOO" style="padding-right:20px;" />
 </p>
----
+
 <br />
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=js,html,css,python,java,git,tailwind,react,mysql,mongodb,ps,pr)](https://skillicons.dev)"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=js,html,css,python,java,git,tailwind,react,mysql,mongodb,ps)](https://skillicons.dev)"/>
 </p>
 <br />
 
