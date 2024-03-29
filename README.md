@@ -14,7 +14,7 @@ field with great effort and perseverance.</p>
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=orange&style=flat&label=Views" alt="VIMAGOO" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=VIMAGOO&color=orange&style=flat&label=Views" alt="VIMAGOO" style="padding-right:20px;" />
 </p>
 
 <br />
