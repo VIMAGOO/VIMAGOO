@@ -1,14 +1,15 @@
-<!--Banner-->
-![Kiran1689 Banner Image](https://github.com/VIMAGOO/VIMAGOO/blob/main/BANNERVIMAGOO.png)
+<!--Banner/Header-->
+![VIMAGOO Banner Image](https://github.com/Kiran1689/kiran1689/blob/main/banner.png)
 
-<!--Header Name-->
-# I'm Víctor! 
 <br /> 
 
 <!--Start Intro-->               
-<p align="left"></p>
-
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+<p align="left">I'm an 18-year-old web development enthusiast who 
+recently embarked on this exciting journey. I'm deeply
+passionate about exploring the limitless possibilities
+of web development and programming, and I thrive
+on learning new skills and technologies in this dynamic
+field with great effort and perseverance.</p>
 <!--End Intro-->
 
 <!--Profile Count Badge-->
