@@ -1,5 +1,5 @@
 <!--Banner/Header-->
-![VIMAGOO Banner Image](https://github.com/Kiran1689/kiran1689/blob/main/banner.png)
+![VIMAGOO Banner Image](https://github.com/VIMAGOO/VIMAGOO/blob/main/BANNERVIMAGOO.png)
 
 <br /> 
 
