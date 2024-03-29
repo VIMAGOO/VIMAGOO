@@ -22,56 +22,25 @@ field with great effort and perseverance.</p>
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="full"  src="https://skillicons.dev/icons?i=js,html,css,python,java,git,tailwind,react,mysql,mongodb,ps,pr,vscode,github,bootstrap,)](https://skillicons.dev)"/>
-</p>
-<br />
-
-
-<!--Trophies Section-->   
-<h2 align="center">Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs</h2>
-<p align="center">
-  <a href="https://github.com/VIMAGOO/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=VIMAGOO&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
-  </a>
+<img width="full"  src="https://skillicons.dev/icons?i=js,html,css,python,java,git,tailwind,react,mysql,mongodb,ps,pr,vscode,github,bootstrap" alt="Skills"/>
 </p>
 <br />
 
 <!--Github stats Table--> 
 <h2 align="center">Gɪᴛʜᴜʙ Sᴛᴀᴛs</h2>
-
-<table width="100%">
+<table width="100%" style="background-color: purple;">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/VIMAGOO">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=VIMAGOO&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=VIMAGOO&count_private=true&show_icons=true&theme=nightowl&bg_color=000000" alt="GitHub Stats" />
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/VIMAGOO">
-          <img align="center" src="https://streak-stats.demolab.com?user=VIMAGOO&theme=nightowl" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/VIMAGOO">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=VIMAGOO&repo=cryptos&theme=nightowl&show_owner=true" alt="Cryptos Project" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/VIMAGOO">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=VIMAGOO&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+          <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VIMAGOO&layout=compact&langs_count=8&card_width=320&bg_color=000000&theme=nightowl" alt="Top Languages" />
         </a>
       </p>
     </td>
@@ -81,29 +50,14 @@ field with great effort and perseverance.</p>
 
 <!--Contribution Graph-->
 <h2 align="center">Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=VIMAGOO&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+<div align="center" style="background-color: black;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=VIMAGOO&amp;bg_color=000000&amp;color=c590e7&amp;line=ff7f0e&amp;point=c590e7&amp;area=true&amp;hide_border=false" style="border-radius: 15px;">
 </div>
 
 <!--Contact Section--> 
 
 <h2 align="center">Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ</h2>
-<div align="center">
- <a href="https://www.linkedin.com/in/v%C3%ADctor-madarn%C3%A1s-aa22a0296/" target="_blank">
-   <img width="40px" src="https://github.com/VIMAGOO/VIMAGOO/blob/main/Linkedin1.1.png" alt="LinkedIn" />
-</a>
-  
-<a href="mailto:vmadarnasinfo@gmail.com" target="_blank">
-  <img width="50px" src="https://github.com/VIMAGOO/VIMAGOO/blob/main/Gmail1.1.png" alt="Gmail" />
-</a>
-</div>
-
-</div>
-<!--Footer--> 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <a href="https://www.linkedin.com/in/v%C3%ADctor-madarn%C3%A1s-aa22a0296/" target="_blank"><img align="center" src="https://github.com/VIMAGOO/VIMAGOO/blob/main/Linkedin1.1.png" alt="vimagoolinkedin" width="40" /></a>
+  <a href="mailto:vmadarnasinfo@gmail.com" target="_blank"><img align="center" src="https://github.com/VIMAGOO/VIMAGOO/blob/main/Gmail1.1.png" alt="vimagoogmail" width="40" /></a>
 </p>
-
-------
-
-Credit: [VIMAGOO](https://github.com/VIMAGOO)
