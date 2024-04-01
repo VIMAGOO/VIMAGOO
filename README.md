@@ -1,6 +1,5 @@
 <!--Banner/Header-->
 ![VIMAGOO Banner Image](https://github.com/VIMAGOO/VIMAGOO/blob/main/BANNERVIMAGOO.png)
-
 <br /> 
 
 <!--Start Intro-->               
@@ -16,7 +15,6 @@ field with great effort and perseverance.</p>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=VIMAGOO&color=orange&style=flat&label=Views" alt="VIMAGOO" style="padding-right:20px;" />
 </p>
-
 <br />
 
 <!--Languages and Tools Section-->       
@@ -55,7 +53,6 @@ field with great effort and perseverance.</p>
 </div>
 
 <!--Contact Section--> 
-
 <h2 align="center">Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/v%C3%ADctor-madarn%C3%A1s-aa22a0296/" target="_blank"><img align="center" src="https://github.com/VIMAGOO/VIMAGOO/blob/main/Linkedin1.1.png" alt="vimagoolinkedin" width="40" /></a>
