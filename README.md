@@ -15,6 +15,7 @@ field with great effort and perseverance.</p>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=VIMAGOO&color=orange&style=flat&label=Views" alt="VIMAGOO" style="padding-right:20px;" />
 </p>
+
 <br />
 
 <!--Languages and Tools Section-->       
@@ -22,6 +23,7 @@ field with great effort and perseverance.</p>
 <p align="center">
 <img width="full"  src="https://skillicons.dev/icons?i=js,html,css,python,java,git,tailwind,react,mysql,mongodb,ps,pr,vscode,github,bootstrap" alt="Skills"/>
 </p>
+
 <br />
 
 <!--Github stats Table--> 
@@ -44,6 +46,7 @@ field with great effort and perseverance.</p>
     </td>
   </tr>
 </table>
+
 <br />
 
 <!--Contribution Graph-->
