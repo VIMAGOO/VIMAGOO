@@ -15,13 +15,13 @@ field with great effort and perseverance.</p>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=VIMAGOO&color=orange&style=flat&label=Views" alt="VIMAGOO" style="padding-right:20px;" />
 </p>
-
+<!-- https://github.com/tandpfun/skill-icons#readme -->
 <br />
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="full"  src="https://skillicons.dev/icons?i=js,html,css,python,java,git,tailwind,react,mysql,mongodb,ps,pr,vscode,github,bootstrap" alt="Skills"/>
+<img width="full"  src="https://skillicons.dev/icons?i=js,html,css,python,java,git,tailwind,react,mysql,mongodb,ps,pr,vscode,bootstrap" alt="Skills"/>
 </p>
 
 <br />
