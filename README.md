@@ -2,15 +2,6 @@
 ![VIMAGOO Banner Image](https://github.com/VIMAGOO/VIMAGOO/blob/main/BANNERVIMAGOO.png)
 <br /> 
 
-<!--Start Intro-->               
-<p align="left">I'm an 18-year-old web development enthusiast who 
-recently embarked on this exciting journey. I'm deeply
-passionate about exploring the limitless possibilities
-of web development and programming, and I thrive
-on learning new skills and technologies in this dynamic
-field with great effort and perseverance.</p>
-<!--End Intro-->
-
 <!--Profile Count Badge-->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=VIMAGOO&color=orange&style=flat&label=Views" alt="VIMAGOO" style="padding-right:20px;" />
