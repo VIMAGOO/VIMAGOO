@@ -1,4 +1,4 @@
-### Hi there, I'm Víctor!
+### HI, I'M VÍCTOR!
 
 I'm a Full Stack Developer specialized in architecting and building complex, highly scalable web platforms end-to-end. I bridge the gap between advanced scientific research (Computer Vision, RAG architectures, Bioinformatics) and production-ready SaaS applications.
 
