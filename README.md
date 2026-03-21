@@ -4,15 +4,15 @@ I'm a Full Stack Developer specialized in architecting and building complex, hig
 
 ### WHAT I DO
 
-- **End-to-End Architecture**: Designing and orchestrating scalable cloud infrastructures on AWS and automating CI/CD pipelines.
+- **End-to-End Architecture**: Designing and orchestrating scalable web apps, with cloud infrastructures on AWS/Supabase and automating CI/CD pipelines.
 - **Modern Full-Stack**: Building robust, responsive systems with Next.js, React, Python, and PostgreSQL.
-- **AI Integration**: Bringing heavy AI models (SAM2, CoTracker, RAG systems) to the web through optimized APIs and CUDA-accelerated instances.
+- **AI Integration**: Bringing heavy AI models (SAM2, CoTracker, RAG systems and LLMs) to the web through optimized APIs and CUDA-accelerated instances.
 
 ### CURRENT STACK
 
-- **Frontend**: Next.js, React, TypeScript, Tailwind CSS, PyQt5
-- **Backend**: Python (FastAPI), Node.js, PostgreSQL, Supabase
-- **DevOps & Cloud**: AWS (EC2, S3, IAM, Lambda), Docker, GitLab CI/CD
+- **Frontend**: Next.js, React, TypeScript, Tailwind CSS
+- **Backend**: Python (FastAPI), PostgreSQL, Supabase
+- **DevOps & Cloud**: AWS (EC2, S3, IAM, Lambda), Docker (Dockerfile and Docker Compose), GitLab CI/CD
 
 ### CONTACT
 
